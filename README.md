@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JAVA, AWS, Genarative AI, SQL**
 
-- 📫 Reach me at **sayantika.paul9977@gmail.com**
+- 📫 Reach me at **spaul56@asu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
